@@ -8,6 +8,6 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
-def 
-
+def groceries.values.flatten.min
+#=> "broccoli"
 end
