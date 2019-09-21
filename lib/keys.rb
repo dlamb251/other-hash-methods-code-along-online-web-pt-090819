@@ -10,5 +10,4 @@ require 'pry'
 
 def groceries.keys
 #=> [:dairy, :vegetable, :meat, :grains]
-
 end
