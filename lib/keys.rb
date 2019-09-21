@@ -8,6 +8,7 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
-def 
+def groceries.keys
+#=> [:dairy, :vegetable, :meat, :grains]
 
 end
